@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1 align="center">Hi I'm David 👋 <br> I'm an Aerospace Engineer and Roboticist 🤖 </h1>
 
 <!--
 **davidoort/davidoort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
