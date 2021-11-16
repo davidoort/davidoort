@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi I'm David 👋 <br> I'm an Aerospace Engineer and Roboticist 🤖 </h1>
 
 <!--
