@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm David 👋 <br> I'm an Aerospace Engineer and Roboticist 🤖 </h1>
-<center>My corner on the internet: [dalonso.me](https://dalonso.me) 🌎 </center>
+<h2 align="center">My corner on the internet: <a href="https://dalonso.me">dalonso.me</a> 🌎 </h2>
 
 <!-- ## 👨🏻‍💻 Coding Addiction
 
