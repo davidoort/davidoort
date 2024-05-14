@@ -1,4 +1,5 @@
-<h1 align="center">Hi I'm David 👋 <br> I'm an Aerospace Engineer and Roboticist 🤖 </h1>
+<h1 align="center">Hi I'm David 👋 <br> I'm an Aerospace Engineer 🚀 and Roboticist 🤖 turned Software Developer 🧑‍💻
+</h1>
 <h2 align="center">My corner on the internet: <a href="https://david-alonso.com">david-alonso.com</a> 🌎 </h2>
 
 <!-- ## 👨🏻‍💻 Coding Addiction
